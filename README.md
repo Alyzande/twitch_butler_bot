@@ -113,4 +113,5 @@ AI may be introduced later as an optional enhancement rather than a requirement.
 
 Created by Alyzande
 
-https://github.com/Alyzande
+https://www.alyzande.co.uk
+https://www.twitch.tv/butlerservice
