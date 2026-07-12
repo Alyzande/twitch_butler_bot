@@ -1,0 +1,30 @@
+[
+    {
+        "name": "tea",
+        "temperature": "hot"
+    },
+    {
+        "name": "coffee",
+        "temperature": "hot"
+    },
+    {
+        "name": "hot chocolate",
+        "temperature": "hot"
+    },
+    {
+        "name": "lemonade",
+        "temperature": "cold"
+    },
+    {
+        "name": "sparkling water",
+        "temperature": "cold"
+    },
+    {
+        "name": "champagne",
+        "temperature": "cold"
+    },
+    {
+        "name": "elderflower cordial",
+        "temperature": "cold"
+    }
+]
